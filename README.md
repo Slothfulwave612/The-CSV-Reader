@@ -12,3 +12,6 @@ Python Files Present :- 5 files
 4. csvReuseInputOutput.py :- It is the file which contain some other reuse functions that are being reused in the program.
 5. csvExceptionFile.py :- It is the file which contains some of the user defined exception that are being used in the file.
 
+In order to run the program, the user has to run csvMainFile.csv in order to run the program
+
+Programmed By :- Slothfulwave@612
