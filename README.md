@@ -1,8 +1,6 @@
 # The-CSV-Reader
 
-This is project based on the manipulation of the csv file, supporting the delimiter type ','.
-
-The program can create a new csv file and can do many more stuffs like copying content, adding information, renaming and removing the files etc etc.
+The project 'The-CSV-Reader' helps users to manage their data held in a csv file. The program can help users to create, read, write and update the data into the csv file.
 
 Python Files Present :- 5 files
 
@@ -12,6 +10,4 @@ Python Files Present :- 5 files
 4. csvReuseInputOutput.py :- It is the file which contain some other reuse functions that are being reused in the program.
 5. csvExceptionFile.py :- It is the file which contains some of the user defined exception that are being used in the file.
 
-In order to run the program, the user has to run csvMainFile.csv in order to run the program
-
-Programmed By :- Slothfulwave@612
+In order to run the program, the user has to run csvMainFile.csv in order to run the program.
